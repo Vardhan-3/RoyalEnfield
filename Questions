@@ -1,0 +1,16 @@
+1. Find the date of the first purchase for each customer.
+2. Write a SQL  query to find the top 3 most expensive bikes (based on price) for each year and model.
+3. Retrieve the Latest Service for Each Bike.
+4. Find the Price difference between the current bike and the  next bike in the same year.
+5. Find the Maximum sale amount for each month.
+6. Concatenate the first and last names of customers, and display them in upper case.
+7. Determine the quarter in which each sale occurred.
+8. Calculate the running total of service costs for each bike.
+9. Find the top dealers based on the total sales amount across the bikes.
+10. Find the count of bikes sold each year and categorize them into three groups: ‘Low’,’ Medium’, and ‘High’ based on their prices.
+11. Find the Top 5 Bike models with the highest cost.
+12. Write a query to compare a bike model price in years 2022 and 2023. retrieve in two different column for 2022 and 2023.
+13. Retrieve the count of highly sold bike model in both the year with its SaleAmount.
+14. Write a query to retrieve how much bikes arw sold by each dealer in year 2023(dealer name, bike sales count, total sales amount)
+15. From the above Dealers table Retrieve the count of dealers in each location.
+16. Retrieve the top 5 models from the bikes table and the max service cost of each bike  with its description from servicerecord table.
